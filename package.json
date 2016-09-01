@@ -1,0 +1,41 @@
+{
+  "name": "mern-test",
+  "version": "1.0.0",
+  "description": "Getting started with MERN Stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackHarpy/mern-test.git"
+  },
+  "keywords": [
+    "mern",
+    "test"
+  ],
+  "author": "Maria C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackHarpy/mern-test/issues"
+  },
+  "homepage": "https://github.com/BlackHarpy/mern-test#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "method-override": "^2.3.6",
+    "mongodb": "^2.2.7",
+    "mongoose": "^4.5.8"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3",
+    "grunt-open": "^0.2.3",
+    "grunt-serve": "^0.1.6"
+  }
+}
