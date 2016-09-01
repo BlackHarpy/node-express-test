@@ -1,14 +1,14 @@
 {
-  "name": "mern-test",
+  "name": "node-express-test",
   "version": "1.0.0",
-  "description": "Getting started with MERN Stack",
+  "description": "Basic API with Node JS, Express JS and MongoDB",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlackHarpy/mern-test.git"
+    "url": "git+https://github.com/BlackHarpy/node-express-test.git"
   },
   "keywords": [
     "mern",
@@ -17,9 +17,9 @@
   "author": "Maria C",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BlackHarpy/mern-test/issues"
+    "url": "https://github.com/BlackHarpy/node-express-test/issues"
   },
-  "homepage": "https://github.com/BlackHarpy/mern-test#readme",
+  "homepage": "https://github.com/BlackHarpy/node-express-test#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
